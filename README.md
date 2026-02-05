@@ -2,7 +2,9 @@
 ---
 👨‍💼 About Me: 
 
-I'm a linguist and tech-enjoyer from Germany researching AI and the gap in human-computer interaction. Currently learning to code by creating either useful stuff (Corpus Analysis pipelines in Python and R), stuff that I enjoy personally (mostly games) or any kind of useful tools. BA English Linguistics → MA Digital Humanities
+I'm a linguist and tech-enjoyer from Germany researching AI and the gap in human-computer interaction. Currently learning to code by creating either useful stuff (Corpus Analysis pipelines in Python and R), stuff that I enjoy personally (mostly games) or any kind of useful tools. 
+
+BA English Linguistics → MA Digital Humanities
 
 ---
 ### 🧰 Languages and Tools
