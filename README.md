@@ -1,5 +1,9 @@
-## Hi there 👋
-
+### Hello World 🤖
+I'm a linguist and tech-enjoyer from Germany researching AI and the gap in human-computer interaction. Currently learning to code buy creating either useful stuff (Corpus Analysis pipelines in Python and R), stuff that I enjoy personally (mostly games) or any kind of useful tools that could be of use.
+---
+### Languages and Tools
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" />
+          
 <!--
 **Eidolom/Eidolom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
